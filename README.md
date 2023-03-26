@@ -26,7 +26,7 @@ chmod +x proxmox-template.sh
 ```
 4. Run the install.sh script:
 ```bash
- ./install.sh
+ ./proxmox-template.sh
 ```
 5. Enter a unique template ID when prompted.
 
